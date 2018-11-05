@@ -1,0 +1,20 @@
+%Cpu(s):  1.4 us,  0.3 sy,  0.0 ni, 98.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+41.32768276849110207439 %
+Iface      MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s3    1500      524      0      0 0           465      0      0      0 BMRU
+lo       65536      288      0      0 0           288      0      0      0 LRU
+%Cpu(s):  1.4 us,  0.3 sy,  0.0 ni, 98.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+41.32768276849110207439 %
+Iface      MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s3    1500      524      0      0 0           465      0      0      0 BMRU
+lo       65536      288      0      0 0           288      0      0      0 LRU
+%Cpu(s):  1.4 us,  0.3 sy,  0.0 ni, 98.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+41.32768276849110207439 %
+Iface      MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s3    1500      524      0      0 0           465      0      0      0 BMRU
+lo       65536      288      0      0 0           288      0      0      0 LRU
+%Cpu(s):  1.4 us,  0.3 sy,  0.0 ni, 98.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+41.32768276849110207439 %
+Iface      MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp0s3    1500      524      0      0 0           465      0      0      0 BMRU
+lo       65536      288      0      0 0           288      0      0      0 LRU
