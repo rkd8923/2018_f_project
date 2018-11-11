@@ -1,7 +1,7 @@
 #! /bin/bash
 for((;;))
 do 
-  CPU=`top -n 1 | grep -i cpu\(s\)| awk '{print $5}' | tr -d "%id," | awk '{print 100-$1}'`
+  CPU=`top -n 1 | grep -i cpu\(s\)| awk '{print $8}' | tr -d "%id," | awk '{print 100-$1}'`
   echo "CPU $CPU %"
   DISK_TOTAL=`df -P | grep -v ^Filesystem | awk '{sum += $2} END { print sum; }'`
   DISK_USED=`df -P | grep -v ^Filesystem | awk '{sum += $3} END { print sum; }'`
